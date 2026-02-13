@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# agent directories
+.agent/
+.claude/
+.codex/
+.gemini/
+_bmad/
+_bmad-output/
